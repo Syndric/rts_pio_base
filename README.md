@@ -14,3 +14,5 @@ pio pkg install
 pio run -e esp32dev
 # pio run -e esp32dev -t upload (if uploading to esp32)
 ```
+
+Please note that `pio pkg install` and/or `pio run -e esp32dev` will take a while if you are running them for the first time, as PlatformIO must install the required toolchains.
