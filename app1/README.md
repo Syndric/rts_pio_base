@@ -62,3 +62,6 @@ A task-based approach splits the single loop into multiple different loops so th
 
 Proof of output:
 ![Proof of output](assets/output_proof_1_27_26.png)
+
+### AI Statement
+Copilot was used to generate the code for getting period count. AI was not used for anything else in this folder.
