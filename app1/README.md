@@ -1,5 +1,8 @@
 # Application 1
 
+[Wowki link](https://wokwi.com/projects/454329859073155073)
+Note: LED GPIO and color changed only in the Wowki Project.
+
 ## Directory
 
 Aldem Pido
