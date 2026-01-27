@@ -4,6 +4,7 @@
 
 * VSCode (or other editor)
   * VSCode has a PlatformIO extension that works pretty well.
+  * Use the "Serial Monitor" extension for an integrated terminal.
 * [PlatformIO Core](https://platformio.org/install/cli)
 
 ## 2. Usage
