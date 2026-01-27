@@ -17,3 +17,5 @@ pio run -e esp32dev
 ```
 
 Please note that `pio pkg install` and/or `pio run -e esp32dev` will take a while if you are running them for the first time, as PlatformIO must install the required toolchains.
+
+Also note that you may need additional drivers to connet to your ESP32, if it's not being recognized that can be the issue.
