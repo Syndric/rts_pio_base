@@ -6,6 +6,10 @@ Aldem Pido
 
 [RTS-SP26-Application-02-Aldem-Pido - Wokwi ESP32, STM32, Arduino Simulator](https://wokwi.com/projects/455539829667384321)
 
+## AI Statement
+
+AI was used to double check these answers in this readme. All answers were fully written out, and then this whole README document was put into Gemini for suggestions. VSCode Copilot auto-completion with tab was also used for the initial code. No agents were used to generate the code. 
+
 ## 1
 
 I assigned the task priorities as follows:
